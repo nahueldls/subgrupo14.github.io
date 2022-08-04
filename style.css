@@ -11,8 +11,10 @@ a {
     color: #B6BEE8;
 }
 p {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
+    font-size: 15px;
+    padding: 15px;
 }
 li {
     display: inline;
