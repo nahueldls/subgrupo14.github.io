@@ -1,20 +1,27 @@
-/*compañeros modifican aquí*/
 h1{
     font-family: fantasy; 
     color: #B6BEE8;
     text-align: center;
 }
-body{background-color: #536ADE;
+body{
+    background-color: #536ADE;
     padding: 20px;
 }
 a {
     color: #B6BEE8;
+    
 }
+/*HEAD
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
     font-size: 15px;
     padding: 15px;
+}*/
+p { color: white;
+    font-family: fantasy;
+    text-align: justify;
+    margin-top: 30px;
 }
 li {
     display: inline;
